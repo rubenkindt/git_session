@@ -6,3 +6,4 @@ Git kennis
   -untracked
   -staging
   -tracked/commited
+ 
