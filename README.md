@@ -6,4 +6,7 @@ Git kennis
   -untracked
   -staging
   -tracked/commited
- 
+
+ header
+ paragrafen  zinnen
+ paragrafen  zinnen met enters
